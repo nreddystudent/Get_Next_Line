@@ -25,7 +25,7 @@ Recreating Function Readline, to be used to read files. Multiple File descriptor
 - What are File Descriptors and how to manipulate them
 ---
 ## **How To Use**
-``` make -C libft ; gcc tester.c get_next_line.c libft/libft.a -o gnl```
+```` make -C libft ; gcc tester.c get_next_line.c libft/libft.a -o gnl````
   </br>
   </br>
 ``./gnl [Textfiles]``
